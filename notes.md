@@ -6,6 +6,8 @@ These are my set up notes for using GNU/Linux (Ubuntu 20.04 desktop) to take the
 
 ### Github
 
+You need a Github account to submit your assignments.
+
 If you don't already, have a [github](https://github.com) account, create one now.
 
 ## Software
@@ -48,8 +50,25 @@ To run it, first create a directory where you will put all of your course files.
 
 When you have your basic HTML file, just launch `browser-sync` as a server:
 
-	$ browser-sync --server
+	$ browser-sync start --server --directory --files "*"
 
- 
+## Helpful Sites
 
+### JSfiddle
+
+https://jsfiddle.net
+
+Share your HTML, CSS, and Javascript or just use this to write/test your code.
+
+### CodePen
+
+https://codepen.io
+
+This site is very similar to JSfiddle.
+
+### CSS Tricks
+
+https://css-tricks.com
+
+Another Chris Coier site - this time dedicated to CSS.
 
