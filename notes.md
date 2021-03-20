@@ -27,3 +27,9 @@ For Ubuntu, here are the installation steps:
 Follow the steps in the [Git Book](https://git-scm.com/book/en/v2), section 1.6 to get git setup
 
 ### NodeJS
+
+NodeJS will also be available in your package manager.
+
+For Ubuntu, here are the steps:
+
+	$ sudo apt install nodejs
