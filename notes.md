@@ -44,3 +44,12 @@ In your terminal type:
 
 That `-g` will install browser-sync for all users on your computer.
 
+To run it, first create a directory where you will put all of your course files.Change directory to this new directory and create a basic `index.html` file.
+
+When you have your basic HTML file, just launch `browser-sync` as a server:
+
+	$ browser-sync --server
+
+ 
+
+
