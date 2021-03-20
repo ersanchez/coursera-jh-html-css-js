@@ -70,5 +70,5 @@ This site is very similar to JSfiddle.
 
 https://css-tricks.com
 
-Another Chris Coier site - this time dedicated to CSS.
+Another Chris Coyier site - this time dedicated to CSS.
 
