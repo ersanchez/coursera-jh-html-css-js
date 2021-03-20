@@ -22,7 +22,7 @@ This is in your package manager.
 
 For Ubuntu, here are the installation steps:
 
-  $ sudo apt install git
+	$ sudo apt install git
   
 Follow the steps in the [Git Book](https://git-scm.com/book/en/v2), section 1.6 to get git setup
 
@@ -33,3 +33,14 @@ NodeJS will also be available in your package manager.
 For Ubuntu, here are the steps:
 
 	$ sudo apt install nodejs
+
+### Browser-Sync
+
+Next we'll install this cool app that watches a file and updates the webpage whenever you make a change to the HTML file.
+
+In your terminal type:
+
+	$ sudo npm install -g browser-sync
+
+That `-g` will install browser-sync for all users on your computer.
+
